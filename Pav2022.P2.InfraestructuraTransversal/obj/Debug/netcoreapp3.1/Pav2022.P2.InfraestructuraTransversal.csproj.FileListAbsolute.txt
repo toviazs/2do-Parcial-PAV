@@ -1,0 +1,10 @@
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.InfraestructuraTransversal\bin\Debug\netcoreapp3.1\Pav2022.P2.InfraestructuraTransversal.deps.json
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.InfraestructuraTransversal\bin\Debug\netcoreapp3.1\Pav2022.P2.InfraestructuraTransversal.dll
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.InfraestructuraTransversal\bin\Debug\netcoreapp3.1\Pav2022.P2.InfraestructuraTransversal.pdb
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.InfraestructuraTransversal\obj\Debug\netcoreapp3.1\Pav2022.P2.InfraestructuraTransversal.csproj.AssemblyReference.cache
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.InfraestructuraTransversal\obj\Debug\netcoreapp3.1\Pav2022.P2.InfraestructuraTransversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.InfraestructuraTransversal\obj\Debug\netcoreapp3.1\Pav2022.P2.InfraestructuraTransversal.AssemblyInfoInputs.cache
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.InfraestructuraTransversal\obj\Debug\netcoreapp3.1\Pav2022.P2.InfraestructuraTransversal.AssemblyInfo.cs
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.InfraestructuraTransversal\obj\Debug\netcoreapp3.1\Pav2022.P2.InfraestructuraTransversal.csproj.CoreCompileInputs.cache
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.InfraestructuraTransversal\obj\Debug\netcoreapp3.1\Pav2022.P2.InfraestructuraTransversal.dll
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.InfraestructuraTransversal\obj\Debug\netcoreapp3.1\Pav2022.P2.InfraestructuraTransversal.pdb

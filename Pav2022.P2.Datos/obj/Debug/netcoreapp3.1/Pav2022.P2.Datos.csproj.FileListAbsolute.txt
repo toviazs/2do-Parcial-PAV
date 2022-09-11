@@ -1,0 +1,16 @@
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.Datos\bin\Debug\netcoreapp3.1\Pav2022.P2.Datos.deps.json
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.Datos\bin\Debug\netcoreapp3.1\Pav2022.P2.Datos.runtimeconfig.json
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.Datos\bin\Debug\netcoreapp3.1\Pav2022.P2.Datos.runtimeconfig.dev.json
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.Datos\bin\Debug\netcoreapp3.1\Pav2022.P2.Datos.dll
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.Datos\bin\Debug\netcoreapp3.1\Pav2022.P2.Datos.pdb
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.Datos\bin\Debug\netcoreapp3.1\Pav2022.P2.Dominio.dll
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.Datos\bin\Debug\netcoreapp3.1\Pav2022.P2.Dominio.pdb
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.Datos\obj\Debug\netcoreapp3.1\Pav2022.P2.Datos.csproj.AssemblyReference.cache
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.Datos\obj\Debug\netcoreapp3.1\Pav2022.P2.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.Datos\obj\Debug\netcoreapp3.1\Pav2022.P2.Datos.AssemblyInfoInputs.cache
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.Datos\obj\Debug\netcoreapp3.1\Pav2022.P2.Datos.AssemblyInfo.cs
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.Datos\obj\Debug\netcoreapp3.1\Pav2022.P2.Datos.csproj.CoreCompileInputs.cache
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.Datos\obj\Debug\netcoreapp3.1\Pav2022.P2.Datos.csproj.CopyComplete
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.Datos\obj\Debug\netcoreapp3.1\Pav2022.P2.Datos.dll
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.Datos\obj\Debug\netcoreapp3.1\Pav2022.P2.Datos.pdb
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.Datos\obj\Debug\netcoreapp3.1\Pav2022.P2.Datos.genruntimeconfig.cache

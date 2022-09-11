@@ -1,0 +1,10 @@
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.Dominio\bin\Debug\netcoreapp3.1\Pav2022.P2.Dominio.deps.json
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.Dominio\bin\Debug\netcoreapp3.1\Pav2022.P2.Dominio.dll
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.Dominio\bin\Debug\netcoreapp3.1\Pav2022.P2.Dominio.pdb
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.Dominio\obj\Debug\netcoreapp3.1\Pav2022.P2.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.Dominio\obj\Debug\netcoreapp3.1\Pav2022.P2.Dominio.AssemblyInfoInputs.cache
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.Dominio\obj\Debug\netcoreapp3.1\Pav2022.P2.Dominio.AssemblyInfo.cs
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.Dominio\obj\Debug\netcoreapp3.1\Pav2022.P2.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.Dominio\obj\Debug\netcoreapp3.1\Pav2022.P2.Dominio.dll
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.Dominio\obj\Debug\netcoreapp3.1\Pav2022.P2.Dominio.pdb
+C:\Users\tobip\Desktop\PAV2022_Parcial_II\PAV2022_Parcial_II_Codigo\Pav2022.P2\Pav2022.P2.Dominio\obj\Debug\netcoreapp3.1\Pav2022.P2.Dominio.csproj.AssemblyReference.cache

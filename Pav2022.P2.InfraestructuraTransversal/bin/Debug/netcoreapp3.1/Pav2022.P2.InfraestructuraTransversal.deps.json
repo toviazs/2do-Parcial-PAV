@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Pav2022.P2.InfraestructuraTransversal/1.0.0": {
+        "runtime": {
+          "Pav2022.P2.InfraestructuraTransversal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pav2022.P2.InfraestructuraTransversal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
